@@ -14,3 +14,5 @@ integrations:
     hub:
       - integrationName: "Amazon ECR"
         type: ecr
+
+
